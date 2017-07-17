@@ -1,7 +1,7 @@
 # EE-Stringy
 
 ### Created by Glenn Jacobs
-[http://glennjacobs.co.uk/](Website)
+[Website](http://glennjacobs.co.uk/)
 #### Ported to EE3 by Doug Black
 
 Stringy provides the following useful text manipulations.
