@@ -1,4 +1,4 @@
-#EE-Stringy
+# EE-Stringy
 
 ### Created by Glenn Jacobs
 [http://glennjacobs.co.uk/](Website)
