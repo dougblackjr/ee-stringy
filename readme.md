@@ -2,7 +2,7 @@
 
 ### Created by Glenn Jacobs
 [Website](http://glennjacobs.co.uk/)
-#### Ported to EE3 by Doug Black
+#### Ported to EE3 and EE4 by Doug Black
 
 Stringy provides the following useful text manipulations.
 
